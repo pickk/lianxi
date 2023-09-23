@@ -1,0 +1,14 @@
+C:\Users\123\source\repos\lianxi\lianxi\bin\Debug\net6.0\lianxi.exe
+C:\Users\123\source\repos\lianxi\lianxi\bin\Debug\net6.0\lianxi.deps.json
+C:\Users\123\source\repos\lianxi\lianxi\bin\Debug\net6.0\lianxi.runtimeconfig.json
+C:\Users\123\source\repos\lianxi\lianxi\bin\Debug\net6.0\lianxi.dll
+C:\Users\123\source\repos\lianxi\lianxi\bin\Debug\net6.0\lianxi.pdb
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.AssemblyInfo.cs
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.dll
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\refint\lianxi.dll
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.pdb
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\lianxi.genruntimeconfig.cache
+C:\Users\123\source\repos\lianxi\lianxi\obj\Debug\net6.0\ref\lianxi.dll
